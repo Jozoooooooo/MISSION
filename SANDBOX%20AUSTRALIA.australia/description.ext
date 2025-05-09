@@ -1,9 +1,0 @@
-class CfgFunctions {
-	class opec
-	{
-		class opec
-		{
-			class garageNew {};
-		};
-	};
-};
